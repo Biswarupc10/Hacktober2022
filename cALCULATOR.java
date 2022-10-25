@@ -7,7 +7,7 @@ public class cALCULATOR {
       Scanner sc=new Scanner(System.in);
       System.out.println("Enter your choice");
       System.out.println("1st number");
-          System.out.println("2nd number");
+          System.out.println("2nd number")
       int a=sc.nextInt();
       System.out.println("2nd number");
       int b=sc.nextInt();
